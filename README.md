@@ -75,7 +75,6 @@ The Power BI user interface uses a structured grid layout designed for corporate
 ## Executive Dashboard Interface Map
 The Power BI user interface uses a structured grid layout designed for corporate stakeholders:
 
-*   *Executive Metrics Strip (Top):* High-level card visuals delivering rapid readouts of *Total Exposure, **WA PD, and **Expected Loss* to gauge portfolio health instantly.
+*   *Executive Metrics Strip (Top):* High-level card visuals delivering rapid readouts of *Total Exposure*, *WA PD*, and **Expected Loss* to gauge portfolio health instantly.
 *   *Behavioral Risk Breakdown (Bottom Left):* A categorical clustered column chart matching past borrower delinquency occurrences with projected asset loss numbers.
-*   *Capacity Distribution Trend (Bottom Right):* A continuous area chart plotting borrower income segments against default probability slopes, smoothing raw data points into distinct \$20,000 income brackets.own (Bottom Left):** A categorical clustered column chart matching past borrower delinquency occurrences with projected asset loss numbers.
-*   **Capacity Distribution Trend (Bottom Right):** A continuous area chart plotting borrower income segments against default probability slopes, smoothing raw data points into distinct \$20,000 income brackets.
+*   *Capacity Distribution Trend (Bottom Right):* A continuous area chart plotting borrower income segments against default probability slopes, smoothing raw data points into distinct \$20,000 income brackets.own (Bottom Left):
